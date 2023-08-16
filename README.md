@@ -134,4 +134,73 @@ Hover state for a elements within .homepage:
 Changes text color to white.
 Adjusts background color to semi-transparent white (rgb(255, 255, 255, 0.3)).
 These styles contribute to the layout, background image, overlay, content arrangement, and link appearance on the homepage. The use of flex layout and background techniques create an attractive and engaging hero section.
+![3](https://github.com/trishaDas13/campingPage/assets/126088849/3fc47db6-4945-473f-a306-40f91f8fcba3)
+![3a](https://github.com/trishaDas13/campingPage/assets/126088849/e8c80f3f-df8a-4c3b-9e1d-b5df9d05cb3e)
+
+
+![3b](https://github.com/trishaDas13/campingPage/assets/126088849/925ab9a4-3c5b-4557-aa34-a621f91d11e2)
+![3c](https://github.com/trishaDas13/campingPage/assets/126088849/e6524808-7e58-4023-ba28-3b0a5a24a5ab)
+![3d](https://github.com/trishaDas13/campingPage/assets/126088849/a1c51524-2987-47c4-a0ed-7c5d58ab1205)
+![3e](https://github.com/trishaDas13/campingPage/assets/126088849/396d8f14-bf18-40d0-883b-16696ef03ddf)
+
+Structured within a "section" element featuring the class "ourService":
+
+A "heading" division carrying the ID "service" introduces the section with:
+
+An "h1" tag displaying "Our Services" as the main heading.
+A "p" tag with a descriptive paragraph inviting users to explore the range of camping gear services.
+In "div1," a set of three "card" divisions are presented:
+
+Each "card" encapsulates an image sourced from an external link, with an alternate text "error."
+Beneath the image, there's an "h3" tag specifying the gear category, followed by a descriptive paragraph about the service.
+Similarly, in "div2," another set of three "card" divisions is presented:
+
+The structure mirrors the previous "card" setup, containing an image, a heading, and a descriptive paragraph for each service.
+The section is thoughtfully organized to showcase various camping gear services, each accompanied by an image, a heading, and informative text. This HTML code effectively creates a visually appealing and informative section highlighting the range of services offered.
+
+![3f](https://github.com/trishaDas13/campingPage/assets/126088849/ec8d6962-f7cd-4a44-ae00-078e4989d26f)
+![3g](https://github.com/trishaDas13/campingPage/assets/126088849/6e336839-bd40-4bf5-bb1e-16fa20d5c2d6)
+
+The .service class:
+
+Removes text decoration (underline).
+Sets text color to black.
+Does not apply background color.
+The .ourService, .about, and .contact classes:
+
+Span 100% width.
+Add top margin of 5rem.
+The .heading and .heading1 classes:
+
+Align text center.
+Add bottom margin of 4rem.
+The .div1 and .div2 classes:
+
+Span 88% width.
+Occupy 55% of the viewport height.
+Center horizontally with margin-inline: auto.
+Add top margin of 2rem.
+Utilize flex layout with space-between distribution.
+The .card class:
+
+Span 31% width.
+Occupy 100% height of its container.
+Have a white background color.
+Apply a box shadow for a subtle elevation effect.
+Add padding of 3%.
+Align text center.
+The .img class:
+
+Set width to 40%.
+Set height to 42%.
+Apply a circular border radius.
+Add vertical margin of 6% and horizontal margin of 0.
+The .card > h3 selector within .card:
+
+Set font weight to bold.
+Add bottom margin of 1%.
+The .card > p selector within .card:
+
+Set font weight to lighter.
+These styles contribute to the appearance and layout of service sections, headings, and cards on the webpage. The use of margins, widths, and flex layout ensures consistent spacing and arrangement. Card elements are styled for a clean and appealing presentation of information.
 
