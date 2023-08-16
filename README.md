@@ -204,3 +204,81 @@ The .card > p selector within .card:
 Set font weight to lighter.
 These styles contribute to the appearance and layout of service sections, headings, and cards on the webpage. The use of margins, widths, and flex layout ensures consistent spacing and arrangement. Card elements are styled for a clean and appealing presentation of information.
 
+![4](https://github.com/trishaDas13/campingPage/assets/126088849/ddb183c0-6f3c-434b-a5c0-9d88fee63670)
+![4a](https://github.com/trishaDas13/campingPage/assets/126088849/536e5af6-04aa-4d08-ab94-e759630ba865)
+![4b](https://github.com/trishaDas13/campingPage/assets/126088849/2f3f85e8-1115-4170-9f75-2746793cab63)
+![4c](https://github.com/trishaDas13/campingPage/assets/126088849/229e2815-681d-4904-a205-02100d9b851a)
+
+Enclosed within a "section" element having the class "about" and the ID "aboutUs":
+
+The "heading1" division, marked by the "aboutUs" ID, serves as an introduction with:
+
+An "h1" tag displaying "About Us" as the main heading.
+A "p" tag with a service-oriented paragraph that invites users to uncover the journey of providing camping services.
+Within the "story" division:
+
+An "h3" tag bears the heading "Our Story."
+A "p" tag elaborates on the journey, spanning over a decade, of furnishing outdoor enthusiasts with high-quality camping gear and essentials. The commitment to quality and customer satisfaction is emphasized.
+In the "mission" segment:
+
+An "h3" tag with the heading "Our Mission."
+A "p" tag outlines the mission of equipping outdoor enthusiasts with top-tier camping gear and essentials, enriching their outdoor escapades. The emphasis is on providing reliable, durable, and innovative products.
+The "vision" part carries:
+
+An "h3" tag titled "Our Vision."
+A "p" tag articulates the vision of becoming a prominent hub for camping enthusiasts, known for premium gear and exceptional service. The aim is to inspire nature exploration and create lasting camping memories.
+The "team" division showcases the members:
+
+An "h3" tag with the heading "Our Team."
+An unordered list ("ul") contains list items ("li") with individual names and roles.
+This HTML code effectively constructs a comprehensive section that acquaints users with the essence of the organization, its journey, mission, vision, and the dedicated team members behind the scenes.
+
+![4d](https://github.com/trishaDas13/campingPage/assets/126088849/c3c7f457-ad5d-44f7-89c5-74e486f32135)
+
+The .card > p selector within .card:
+
+Sets font weight to lighter for the paragraph content within the card.
+The .story, .mission, .vision, and .team classes:
+
+Have a width of 87% and centered horizontally with margin: 2% auto.
+These classes likely represent sections on the webpage (such as the story, mission, vision, and team sections).
+The .heading3 class:
+
+Adds padding to the bottom of elements with this class (padding-bottom: 1rem).
+This class is likely applied to subheadings within the sections.
+The .list2 class:
+
+Adjusts the position of list item markers within lists (list-style-position: inside).
+This class is likely used to align list item markers to the inside of the list container.
+The .contact class:
+
+Adds a margin at the bottom to give space for the contact section (margin-bottom: 14vh).
+These additional styles enhance the appearance and layout of various sections and elements on the webpage. The use of margins, widths, and other styling properties ensures a consistent and visually appealing design.
+
+![5](https://github.com/trishaDas13/campingPage/assets/126088849/22dcf039-11b3-499b-8b5d-15e14dfef9bb)
+
+![5a](https://github.com/trishaDas13/campingPage/assets/126088849/d79cf951-88fe-4622-8adf-b1f693452068)
+
+![5b](https://github.com/trishaDas13/campingPage/assets/126088849/2a03ecc6-c414-4e41-872e-a5e13bf204b0)
+
+Enclosed within a "footer" division:
+
+The "contactinfo" division showcases the contact details, each contained within separate divisions ("a" to "g"):
+
+In "a," a location_on icon and corresponding address ("123 Campsite Avenue, Wilderness, CA 98765") are displayed.
+In "b," an email icon and email address ("info@campinggearexperts.com") are provided.
+In "c," a phone icon and contact number ("123-456-7890") are presented.
+In "d," "e," and "f," watch_later icons depict the working hours for different days:
+Monday - Friday: 9:00 AM - 5:00 PM in "d."
+Saturday: 10:00 AM - 3:00 PM in "e."
+Sunday: Closed in "f."
+In "g," a language icon is followed by a website URL ("www.codingnepalweb.com").
+The "form" division accommodates a user contact form:
+
+Input fields include a text field for the user's name, a mail field for email, and a larger textarea for the message.
+A "Send Message" button ("button2" class) is provided for submission.
+This HTML code effectively constructs a footer segment comprising essential contact information, working hours, and a contact form for user interaction.
+
+![5c](https://github.com/trishaDas13/campingPage/assets/126088849/3f828154-6371-4e61-8ebb-39fb716f6858)
+![5d](https://github.com/trishaDas13/campingPage/assets/126088849/325062c1-965c-4eb3-91de-2ddc87471801)
+
