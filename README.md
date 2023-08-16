@@ -282,3 +282,52 @@ This HTML code effectively constructs a footer segment comprising essential cont
 ![5c](https://github.com/trishaDas13/campingPage/assets/126088849/3f828154-6371-4e61-8ebb-39fb716f6858)
 ![5d](https://github.com/trishaDas13/campingPage/assets/126088849/325062c1-965c-4eb3-91de-2ddc87471801)
 
+The .contact class:
+
+Adds a margin at the bottom to provide space for the contact section (margin-bottom: 14vh).
+The .footer class:
+
+Has a width of 87% and is centered horizontally with margin: 2% auto.
+Utilizes flex layout with space-between distribution and vertical alignment.
+Likely represents a footer section on the webpage.
+The .contactinfo class:
+
+Spans 50% width within its container.
+Has a height of 35vh.
+Utilizes flex layout with column direction and space-between distribution.
+Likely represents a container for contact information.
+The .form class:
+
+Spans 50% width within its container.
+Likely represents a container for a contact form.
+The .material-icons class:
+
+Sets the color of icons to rgb(122, 122, 122).
+Icon IDs (#location, #email, #phone, #clock1, #clock2, #clock3, #language):
+
+Sets font size to 16px for various icons.
+Classes .a through .g:
+
+Set font size to 16px.
+Set width to 70%.
+Utilize flex layout with a gap of 18px between items.
+input and textarea elements:
+
+Span 90% width within their containers.
+Add padding of 1%.
+Set font size to 16px.
+Add vertical margin of 2% and remove default outline.
+Apply a 1px solid border with a gray color.
+The .button2 class:
+
+Adds padding of 2% vertically and 4% horizontally.
+Sets font size to 16px.
+Sets background color to rgb(51, 51, 51).
+Sets text color to white.
+Removes borders.
+Applies border radius of 5px.
+Adds left margin of 3.5rem.
+Hover state for .button2:
+
+Changes background color to a slightly transparent dark gray (rgba(51, 51, 51, 0.7)).
+These additional styles contribute to the appearance and layout of the contact and footer sections, icons, form elements, and buttons on the webpage. The use of flex layout and consistent styling ensures a visually pleasing and user-friendly design.
